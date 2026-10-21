@@ -25,12 +25,13 @@ first, link that review in the upstream pull request. Reference upstream issues
 with the full name, for example `Refs arudaev/THD-Room-Finder#123`, so a fork's
 local issue numbers cannot point to different work.
 
-Fork administration changes can be reviewed locally. Shared product bugs,
-feature requests and conversations belong upstream; there is no bot copying
-comments, authors or status between repositories. The native Issues tab cannot
-be configured as a redirect, so this fork's issue chooser provides direct links
-to the shared destinations. GitHub's Projects tab only lists projects owned by
-the same user or organisation as the repository; use the shared board link above.
+The fork retains its issue forms for work developed and reviewed here. Link
+related upstream issues so contributors can follow both sides. The issue
+chooser also provides direct links to upstream reports, discussions and progress.
+There is no bot copying comments, authors or status between repositories, and
+the native Issues tab does not redirect. GitHub's Projects tab only lists
+projects owned by the same user or organisation as the repository; use the
+shared board link above.
 
 ## Five-minute setup
 

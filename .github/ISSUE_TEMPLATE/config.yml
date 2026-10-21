@@ -1,4 +1,4 @@
-# Fork-only routing: product work stays in the shared upstream tracker.
+# Shared upstream destinations alongside this fork's issue templates.
 blank_issues_enabled: false
 contact_links:
   - name: Report a bug or request an improvement

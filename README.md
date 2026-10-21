@@ -28,27 +28,6 @@
   </a>
 </p>
 
-## THD AI community fork
-
-This is the THD AI community fork of
-[arudaev/THD-Room-Finder](https://github.com/arudaev/THD-Room-Finder).
-Students can develop changes together here and propose them upstream. We use
-one shared place for questions, reports and progress, so every contribution
-stays connected to the same conversation and history.
-
-| Find your way | Shared destination |
-|---|---|
-| Questions, ideas and feedback | [Discussions](https://github.com/arudaev/THD-Room-Finder/discussions) |
-| Bugs and planned improvements | [Open issues](https://github.com/arudaev/THD-Room-Finder/issues) · [Report an issue](https://github.com/arudaev/THD-Room-Finder/issues/new/choose) |
-| Current work and next steps | [Project board](https://github.com/users/arudaev/projects/8/views/1) |
-| Completed work and decisions | [Completed board view](https://github.com/users/arudaev/projects/8/views/3) · [Closed issues](https://github.com/arudaev/THD-Room-Finder/issues?q=is%3Aissue%20is%3Aclosed) · [Merged pull requests](https://github.com/arudaev/THD-Room-Finder/pulls?q=is%3Apr%20is%3Amerged) |
-| Published versions | [Releases](https://github.com/arudaev/THD-Room-Finder/releases) |
-
-These links show the original, current records. GitHub does not mirror a
-parent repository's issues or discussions into a fork. Closed issues can include
-cancellations. Merged changes and published versions are listed separately.
-See [contributing from this fork](CONTRIBUTING.md#contributing-from-the-thd-ai-fork).
-
 ---
 
 ## Get the App
