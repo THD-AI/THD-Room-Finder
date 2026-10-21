@@ -1,11 +1,18 @@
+# Fork-only routing: product work stays in the shared upstream tracker.
 blank_issues_enabled: false
 contact_links:
+  - name: Report a bug or request an improvement
+    url: https://github.com/arudaev/THD-Room-Finder/issues/new/choose
+    about: Use the shared issue tracker so reports and progress stay together.
   - name: Questions, ideas and feedback
     url: https://github.com/arudaev/THD-Room-Finder/discussions
-    about: Ask a question, share an idea or tell us what you think.
-  - name: Documentation
-    url: https://github.com/arudaev/THD-Room-Finder/tree/main/docs
-    about: Product spec, architecture, development setup and the contributor workflow.
+    about: Join the original discussion with everyone working on Room Finder.
+  - name: Project board and current work
+    url: https://github.com/users/arudaev/projects/8/views/1
+    about: See what is ready, in progress and waiting for review.
+  - name: Completed work and history
+    url: https://github.com/users/arudaev/projects/8/views/3
+    about: Browse completed issues and pull requests on the shared board.
   - name: Report a security problem
     url: https://github.com/arudaev/THD-Room-Finder/security/advisories/new
     about: Report privately. Please do not open a public issue for vulnerabilities.

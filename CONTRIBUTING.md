@@ -9,13 +9,38 @@ back upstream reach every THD student.
 This page is the short version. The details live in
 [`docs/contributing/`](docs/contributing/README.md).
 
+## Contributing from the THD AI fork
+
+Use the [shared discussions](https://github.com/arudaev/THD-Room-Finder/discussions)
+for questions and ideas, and the
+[upstream issue tracker](https://github.com/arudaev/THD-Room-Finder/issues)
+for bugs and agreed work. The
+[project board](https://github.com/users/arudaev/projects/8/views/1) and its
+[Completed view](https://github.com/users/arudaev/projects/8/views/3) show the
+same live records for everyone coming from either repository.
+
+You can develop a branch in `THD-AI/THD-Room-Finder` and open a pull request
+into `arudaev/THD-Room-Finder:main`. If students review a change in the fork
+first, link that review in the upstream pull request. Reference upstream issues
+with the full name, for example `Refs arudaev/THD-Room-Finder#123`, so a fork's
+local issue numbers cannot point to different work.
+
+Fork administration changes can be reviewed locally. Shared product bugs,
+feature requests and conversations belong upstream; there is no bot copying
+comments, authors or status between repositories. The native Issues tab cannot
+be configured as a redirect, so this fork's issue chooser provides direct links
+to the shared destinations. GitHub's Projects tab only lists projects owned by
+the same user or organisation as the repository; use the shared board link above.
+
 ## Five-minute setup
 
 Requires Node 20+.
 
 ```bash
-git clone https://github.com/arudaev/THD-Room-Finder.git
+git clone https://github.com/THD-AI/THD-Room-Finder.git
 cd THD-Room-Finder
+git remote add upstream https://github.com/arudaev/THD-Room-Finder.git
+git fetch upstream
 npm install
 npm run dev          # http://localhost:5173, live THabella data through a dev proxy
 ```
